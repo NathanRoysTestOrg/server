@@ -4,19 +4,19 @@ API Gateway
 
 ### List
 
--   [x]**[sidompul]()**
--   [ ]**[digiposaja]()**
--   [ ]**[rita]()**
--   [ ]**[simpel]()**
--   [ ]**[sris]()**
--   [ ]**[kiosgamer]()**
--   [ ]**[mitratokopedia]()**
--   [ ]**[mitrabukalapak]()**
--   [ ]**[mitrashopee]()**
--   [ ]**[griyabayar]()**
--   [ ]**[whatsapp]()**
--   [ ]**[telegram]()**
--   [ ]**[xmpp]()**
+-   [x] **[sidompul]()**
+-   [ ] **[digiposaja]()**
+-   [ ] **[rita]()**
+-   [ ] **[simpel]()**
+-   [ ] **[sris]()**
+-   [ ] **[kiosgamer]()**
+-   [ ] **[mitratokopedia]()**
+-   [ ] **[mitrabukalapak]()**
+-   [ ] **[mitrashopee]()**
+-   [ ] **[griyabayar]()**
+-   [ ] **[whatsapp]()**
+-   [ ] **[telegram]()**
+-   [ ] **[xmpp]()**
 
 ### Install
 
