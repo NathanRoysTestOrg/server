@@ -4,7 +4,7 @@ API Gateway
 
 ### List
 
--   [x] **[sidompul]()**
+-   [x] **[sidompul](https://ndiing.github.io/server/api/sidompul/v1/docs)**
 -   [ ] **[digiposaja]()**
 -   [ ] **[rita]()**
 -   [ ] **[simpel]()**
