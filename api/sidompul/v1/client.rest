@@ -1,3 +1,4 @@
+
 ###
 GET http://localhost:3000/api/sidompul/v1/postV1AuthOtp
 ?profileDirectory={{profileDirectory}}
@@ -71,6 +72,30 @@ GET http://localhost:3000/api/sidompul/v1/getV2ContentNextBestOffer
 &msisdn=
 &location=NBO
 &maxOffer=5
+
+### CuanKu Spesial >
+GET http://localhost:3000/api/sidompul/v1/postV2ContentNextBestOfferShown
+?profileDirectory={{profileDirectory}}
+&msisdn=
+&location=NBO
+&offerId=
+
+
+### CuanKu Spesial >
+GET http://localhost:3000/api/sidompul/v1/getV2ContentProfilingProductbenefit
+?profileDirectory={{profileDirectory}}
+&product-code=
+&flag-encrypt=
+
+
+### CuanKu Spesial >
+GET http://localhost:3000/api/sidompul/v1/postV2TrxPackage
+?profileDirectory={{profileDirectory}}
+&msisdn=
+&offerId=
+&originalProduct=
+&pin={{pin}}
+&productCode=
 
 ### Tagging HOT programType=SP,VOUCHER,SPBUNDLING
 GET http://localhost:3000/api/sidompul/v1/postV1TrxClaimTaggingRo
