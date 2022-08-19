@@ -2,5 +2,24 @@
   "dependencies": {
     "@ndiinginc/router": "^1.0.9",
     "@ndiinginc/sidompul": "^1.0.0"
-  }
+  },
+  "name": "@ndiinginc/server",
+  "description": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "exit 0",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndiing/server.git"
+  },
+  "author": "ndiing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndiing/server/issues"
+  },
+  "homepage": "https://github.com/ndiing/server#readme"
 }
