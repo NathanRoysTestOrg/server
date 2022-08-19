@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ndiinginc/router": "^1.0.9",
+    "@ndiinginc/sidompul": "^1.0.0"
+  }
+}

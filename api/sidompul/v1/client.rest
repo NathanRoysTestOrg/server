@@ -1,0 +1,158 @@
+
+###
+GET http://localhost:3000/api/sidompul/v1/postV1AuthOtp
+?profileDirectory={{profileDirectory}}
+&msisdn={{msisdn}}
+
+###
+GET http://localhost:3000/api/sidompul/v1/getV3AuthOtp
+?profileDirectory={{profileDirectory}}
+&msisdn={{msisdn}}
+&otp=286320
+
+###
+GET http://localhost:3000/api/sidompul/v1/postV1LoginTokenRefresh
+?profileDirectory={{profileDirectory}}
+
+###
+GET http://localhost:3000/api/sidompul/v1/postV3AuthLogout
+?profileDirectory={{profileDirectory}}
+
+###
+GET http://localhost:3000/api/sidompul/v1/getV1AccountProfile
+?profileDirectory={{profileDirectory}}
+
+###
+GET http://localhost:3000/api/sidompul/v1/getV1AccountBalance
+?profileDirectory={{profileDirectory}}
+
+### Isi Pulsa > Pilih Nominal
+GET http://localhost:3000/api/sidompul/v1/getV1ContentApiDenom
+?profileDirectory={{profileDirectory}}
+&brand={{brand}}
+
+### Isi Pulsa
+GET http://localhost:3000/api/sidompul/v1/postV1TrxW2p
+?profileDirectory={{profileDirectory}}
+&denom=5000
+&msisdn=6287758437457
+&pin={{pin}}
+
+### Isi Paket >
+GET http://localhost:3000/api/sidompul/v1/getV2ContentProfilingProductcategoriesv2
+?profileDirectory={{profileDirectory}}
+&brand={{brand}}
+
+### Isi Paket >
+GET http://localhost:3000/api/sidompul/v1/getV2ContentProfilingProductitemlistv2
+?profileDirectory={{profileDirectory}}
+&brand={{brand}}
+&product-category=XTRA+KUOTA
+&msisdn-b=6281935155404
+
+### Isi Paket >
+GET http://localhost:3000/api/sidompul/v1/getV2ContentProductbestoffer
+?profileDirectory={{profileDirectory}}
+&brand={{brand}}
+&product-category=XTRA+KUOTA
+&msisdn-b=6281935155404
+
+### Isi Paket
+GET http://localhost:3000/api/sidompul/v1/postV1TrxPackage
+?profileDirectory={{profileDirectory}}
+&msisdn=6281935155404
+&offerId=
+&originalProduct=XKY7
+&pin={{pin}}
+&productCode=XKY7
+
+### CuanKu Spesial
+GET http://localhost:3000/api/sidompul/v1/getV2ContentNextBestOffer
+?profileDirectory={{profileDirectory}}
+&msisdn=
+&location=NBO
+&maxOffer=5
+
+### Tagging HOT programType=SP,VOUCHER,SPBUNDLING
+GET http://localhost:3000/api/sidompul/v1/postV1TrxClaimTaggingRo
+?profileDirectory={{profileDirectory}}
+&inputValidation=
+&msisdn=
+&pin={{pin}}
+&programId=
+&programType=
+
+### Transfer Kuota
+GET http://localhost:3000/api/sidompul/v1/postV1TrxRedeemVoucherSa
+?profileDirectory={{profileDirectory}}
+&hrn=
+&msisdn=
+&pin={{pin}}
+
+### Cek Status Voucher type=SA,HYBRID,AIGO
+GET http://localhost:3000/api/sidompul/v1/getV2CommonVoucherSa
+?profileDirectory={{profileDirectory}}
+&type=SA
+&voucherCode=1234567891234567
+
+### Info Nomor
+GET http://localhost:3000/api/sidompul/v1/getV2PackageCheck4gstatus
+?profileDirectory={{profileDirectory}}
+&msisdn=6281935155404
+
+### Info Nomor
+GET http://localhost:3000/api/sidompul/v1/getV2PackageCheckBalance
+?profileDirectory={{profileDirectory}}
+&msisdn=6281935155404
+
+### Info Nomor
+GET http://localhost:3000/api/sidompul/v1/getV2PackageCheck
+?profileDirectory={{profileDirectory}}
+&msisdn=6281935155404
+
+### Info Nomor
+GET http://localhost:3000/api/sidompul/v1/getV2PackageCheckTenure
+?profileDirectory={{profileDirectory}}
+&msisdn=6281935155404
+
+### Info Nomor
+GET http://localhost:3000/api/sidompul/v1/getV2PackageCheckSpexpDate
+?profileDirectory={{profileDirectory}}
+&msisdn=6281935155404
+
+### Info Nomor
+GET http://localhost:3000/api/sidompul/v1/getV2PackageCheckDukcapil
+?profileDirectory={{profileDirectory}}
+&msisdn=6281935155404
+
+### Info Nomor
+GET http://localhost:3000/api/sidompul/v1/getV2PackageCheckTtl
+?profileDirectory={{profileDirectory}}
+&msisdn=6281935155404
+
+### Cek Transfer Kuota eligibility=A,B A=Pengirim B=Penerima
+GET http://localhost:3000/api/sidompul/v1/getV1PackageEligibility
+?profileDirectory={{profileDirectory}}
+&msisdn=
+&eligibility=
+
+### Cek Voucher Hybrid
+GET http://localhost:3000/api/sidompul/v1/getV1PackageValidity
+?profileDirectory={{profileDirectory}}
+&msisdn=
+&voucherCode=
+
+### Upgrade 4g
+GET http://localhost:3000/api/sidompul/v1/getV1Upgrade4gSimcardStatus4g
+?profileDirectory={{profileDirectory}}
+&msisdn=
+
+### Riwayat Transaksi
+GET http://localhost:3000/api/sidompul/v1/getV3TrxHistory
+?profileDirectory={{profileDirectory}}
+&servicetype=w2p-fulfillment-w2w-other-payro
+&startdate=2022-08-13
+&enddate=2022-08-19
+&q=
+&startamount=100
+&endamount=1000000000
