@@ -1,5 +1,3 @@
-# Global
-
 ## [See also]()
 
--   See also
+-   [`link`]()
