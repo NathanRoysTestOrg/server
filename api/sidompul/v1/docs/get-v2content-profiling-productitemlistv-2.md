@@ -2,11 +2,12 @@
 Isi Paket &gt;
 
 
+## Target
 ```
 GET /getV2ContentProfilingProductitemlistv2
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 

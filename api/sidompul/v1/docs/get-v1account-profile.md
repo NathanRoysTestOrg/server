@@ -1,11 +1,12 @@
 # /getV1AccountProfile
 
 
+## Target
 ```
 GET /getV1AccountProfile
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 

@@ -2,11 +2,12 @@
 Cek Status Voucher type&#x3D;SA,HYBRID,AIGO
 
 
+## Target
 ```
 GET /getV2CommonVoucherSa
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 

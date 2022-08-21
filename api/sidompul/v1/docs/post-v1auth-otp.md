@@ -1,11 +1,12 @@
 # /postV1AuthOtp
 
 
+## Target
 ```
 GET /postV1AuthOtp
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 

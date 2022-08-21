@@ -2,11 +2,12 @@
 Info Nomor
 
 
+## Target
 ```
 GET /getV2PackageCheckTenure
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 

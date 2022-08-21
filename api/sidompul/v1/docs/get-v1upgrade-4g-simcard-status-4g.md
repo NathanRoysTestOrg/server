@@ -2,11 +2,12 @@
 Upgrade 4g
 
 
+## Target
 ```
 GET /getV1Upgrade4gSimcardStatus4g
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 

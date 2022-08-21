@@ -2,11 +2,12 @@
 Cek Transfer Kuota eligibility&#x3D;A,B A&#x3D;Pengirim B&#x3D;Penerima
 
 
+## Target
 ```
 GET /getV1PackageEligibility
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 

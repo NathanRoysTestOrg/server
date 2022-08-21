@@ -2,11 +2,12 @@
 Tagging HOT programType&#x3D;SP,VOUCHER,SPBUNDLING
 
 
+## Target
 ```
 GET /postV1TrxClaimTaggingRo
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 

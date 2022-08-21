@@ -2,11 +2,12 @@
 Transfer Kuota
 
 
+## Target
 ```
 GET /postV1TrxRedeemVoucherSa
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 

@@ -1,11 +1,12 @@
 # /postV3AuthLogout
 
 
+## Target
 ```
 GET /postV3AuthLogout
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 

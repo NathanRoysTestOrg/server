@@ -1,11 +1,12 @@
 # /getV3AuthOtp
 
 
+## Target
 ```
 GET /getV3AuthOtp
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 

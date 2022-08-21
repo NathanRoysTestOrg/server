@@ -2,11 +2,12 @@
 CuanKu Spesial
 
 
+## Target
 ```
 GET /getV2ContentNextBestOffer
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 

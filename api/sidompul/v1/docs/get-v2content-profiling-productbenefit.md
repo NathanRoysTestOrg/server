@@ -2,11 +2,12 @@
 CuanKu Spesial &gt;
 
 
+## Target
 ```
 GET /getV2ContentProfilingProductbenefit
 ```
 
-## Parameters
+### Parameters
 Name | Default | Description
 --- | --- | ---
 profileDirectory | {{profileDirectory}} | 
