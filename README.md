@@ -19,7 +19,7 @@ npm install
 // 4. Run
 npm start
 
-// 5. For the next update
+// For the next update
 npm update
 ```
 
