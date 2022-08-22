@@ -52,31 +52,31 @@ app.listen(3000)
 
 ## Docs
 
--   [x] **[`sidompul` restful](./api/sidompul/v1/README.md)**
--   [x] **[`sidompul` service](./api/sidompul/v1/README.md)**
--   [ ] **[`digiposaja` restful](./api/digiposaja/v1/README.md)**
--   [ ] **[`digiposaja` service](./api/digiposaja/v1/README.md)**
--   [ ] **[`simpel` restful](./api/simpel/v1/README.md)**
--   [ ] **[`simpel` service](./api/simpel/v1/README.md)**
--   [ ] **[`rita` restful](./api/rita/v1/README.md)**
--   [ ] **[`rita` service](./api/rita/v1/README.md)**
--   [ ] **[`sris` restful](./api/sris/v1/README.md)**
--   [ ] **[`sris` service](./api/sris/v1/README.md)**
--   [ ] **[`mitratokopedia` restful](./api/mitratokopedia/v1/README.md)**
--   [ ] **[`mitratokopedia` service](./api/mitratokopedia/v1/README.md)**
--   [ ] **[`mitrabukalapak` restful](./api/mitrabukalapak/v1/README.md)**
--   [ ] **[`mitrabukalapak` service](./api/mitrabukalapak/v1/README.md)**
--   [ ] **[`mitrashopee` restful](./api/mitrashopee/v1/README.md)**
--   [ ] **[`mitrashopee` service](./api/mitrashopee/v1/README.md)**
--   [ ] **[`kiosgamer` restful](./api/kiosgamer/v1/README.md)**
--   [ ] **[`kiosgamer` service](./api/kiosgamer/v1/README.md)**
--   [ ] **[`griyabayar` restful](./api/griyabayar/v1/README.md)**
--   [ ] **[`griyabayar` service](./api/griyabayar/v1/README.md)**
--   [ ] **[`agenbni46` restful](./api/agenbni46/v1/README.md)**
--   [ ] **[`agenbni46` service](./api/agenbni46/v1/README.md)**
--   [ ] **[`whatsapp` restful](./api/whatsapp/v1/README.md)**
--   [ ] **[`whatsapp` service](./api/whatsapp/v1/README.md)**
--   [ ] **[`telegram` restful](./api/telegram/v1/README.md)**
--   [ ] **[`telegram` service](./api/telegram/v1/README.md)**
--   [ ] **[`xmpp` restful](./api/xmpp/v1/README.md)**
--   [ ] **[`xmpp` service](./api/xmpp/v1/README.md)**
+-   [x] **[`restful` sidompul](./api/sidompul/v1/README.md)**
+-   [x] **[`service` sidompul](./api/sidompul/v1/README.md)**
+-   [ ] **[`restful` digiposaja](./api/digiposaja/v1/README.md)**
+-   [ ] **[`service` digiposaja](./api/digiposaja/v1/README.md)**
+-   [ ] **[`restful` simpel](./api/simpel/v1/README.md)**
+-   [ ] **[`service` simpel](./api/simpel/v1/README.md)**
+-   [ ] **[`restful` rita](./api/rita/v1/README.md)**
+-   [ ] **[`service` rita](./api/rita/v1/README.md)**
+-   [ ] **[`restful` sris](./api/sris/v1/README.md)**
+-   [ ] **[`service` sris](./api/sris/v1/README.md)**
+-   [ ] **[`restful` mitratokopedia](./api/mitratokopedia/v1/README.md)**
+-   [ ] **[`service` mitratokopedia](./api/mitratokopedia/v1/README.md)**
+-   [ ] **[`restful` mitrabukalapak](./api/mitrabukalapak/v1/README.md)**
+-   [ ] **[`service` mitrabukalapak](./api/mitrabukalapak/v1/README.md)**
+-   [ ] **[`restful` mitrashopee](./api/mitrashopee/v1/README.md)**
+-   [ ] **[`service` mitrashopee](./api/mitrashopee/v1/README.md)**
+-   [ ] **[`restful` kiosgamer](./api/kiosgamer/v1/README.md)**
+-   [ ] **[`service` kiosgamer](./api/kiosgamer/v1/README.md)**
+-   [ ] **[`restful` griyabayar](./api/griyabayar/v1/README.md)**
+-   [ ] **[`service` griyabayar](./api/griyabayar/v1/README.md)**
+-   [ ] **[`restful` agenbni46](./api/agenbni46/v1/README.md)**
+-   [ ] **[`service` agenbni46](./api/agenbni46/v1/README.md)**
+-   [ ] **[`restful` whatsapp](./api/whatsapp/v1/README.md)**
+-   [ ] **[`service` whatsapp](./api/whatsapp/v1/README.md)**
+-   [ ] **[`restful` telegram](./api/telegram/v1/README.md)**
+-   [ ] **[`service` telegram](./api/telegram/v1/README.md)**
+-   [ ] **[`restful` xmpp](./api/xmpp/v1/README.md)**
+-   [ ] **[`service` xmpp](./api/xmpp/v1/README.md)**
