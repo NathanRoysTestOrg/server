@@ -17,7 +17,13 @@ npm start
 npm update
 ```
 
+## Server
+
+Reverse proxy gateway
+
 ## List
+
+API Documentation
 
 -   [x] **[`sidompul`](./api/sidompul/v1/README.md)**
 -   [ ] **[`digiposaja`](./api/digiposaja/v1/README.md)**
