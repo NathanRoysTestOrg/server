@@ -1,25 +1,25 @@
-// Ignore system error
 process.on("uncaughtException", console.error);
 process.on("unhandledRejection", console.error);
 
-const sidompul = require("@ndiinginc/sidompul");
 const Router = require("@ndiinginc/router");
 
-const app = new Router();
+const sidompul = require("@ndiinginc/sidompul");
 
-// Whitelist
+// WhiteList Alamat IP
+const whitelist = ["127.0.0.1"];
+
+const app = new Router();
 app.use((req, res, next) => {
-    if (!["127.0.0.1"].includes(req.ip)) {
+    if (!whitelist.includes(req.ip)) {
         res.status = 403;
         next({ message: "Forbidden" });
     }
     next();
 });
 
-// Modules
 app.use("/api/sidompul/v1", sidompul({ key: process.env.SIDOMPUL_KEY }));
 
-// Start server
-app.listen(3000, () => {
-    console.log(3000);
+// Mulai Server
+const server = app.listen(3000, () => {
+    console.log(server.address());
 });

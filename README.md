@@ -39,9 +39,9 @@ npm update
 -   [ ] **[`simpel`](./api/simpel/v1/README.md)**
 -   [ ] **[`rita`](./api/rita/v1/README.md)**
 -   [ ] **[`sris`](./api/sris/v1/README.md)**
--   [ ] **[`mitra-tokopedia`](./api/mitra-tokopedia/v1/README.md)**
--   [ ] **[`mitra-bukalapak`](./api/mitra-bukalapak/v1/README.md)**
--   [ ] **[`mitra-shopee`](./api/mitra-shopee/v1/README.md)**
+-   [ ] **[`mitratokopedia`](./api/mitratokopedia/v1/README.md)**
+-   [ ] **[`mitrabukalapak`](./api/mitrabukalapak/v1/README.md)**
+-   [ ] **[`mitrashopee`](./api/mitrashopee/v1/README.md)**
 -   [ ] **[`kiosgamer`](./api/kiosgamer/v1/README.md)**
 -   [ ] **[`griyabayar`](./api/griyabayar/v1/README.md)**
 -   [ ] **[`agenbni46`](./api/agenbni46/v1/README.md)**
