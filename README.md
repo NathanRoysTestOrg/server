@@ -33,14 +33,14 @@ npm install @ndiinginc/sidompul
 and then
 
 ```js
-const {service} = require('@ndiinginc/sidompul')
+const {service} api require('@ndiinginc/sidompul')
 
-const sidompul = new service()
+api s dompul = new service()
 
 // sidompul
 ```
 
-or using as micro service route
+api u ing as micro service route
 
 ```js
 const sidompul = require('@ndiinginc/sidompul')
@@ -53,7 +53,7 @@ app.listen(3000)
 ## Docs
 
 -   [x] **[`restful` sidompul](./api/sidompul/v1/README.md)**
--   [x] **[`service` sidompul](./api/sidompul/v1/README.md)**
+-   [ ] **[`service` sidompul](./api/sidompul/v1/README.md)**
 -   [ ] **[`restful` digiposaja](./api/digiposaja/v1/README.md)**
 -   [ ] **[`service` digiposaja](./api/digiposaja/v1/README.md)**
 -   [ ] **[`restful` simpel](./api/simpel/v1/README.md)**
