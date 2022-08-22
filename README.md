@@ -18,11 +18,18 @@ npm install
 
 // 4. run server
 npm start
+```
 
-// 5. when any update
+install new update
+```
+// 1. change directory
+cd server
+
+// 2. update packages
 npm update
 
-// and then start over
+// 3. run again
+npm start
 ```
 
 ## Docs
