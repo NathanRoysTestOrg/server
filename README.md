@@ -1,8 +1,11 @@
 # Server
+
 reverse proxy gateway
 
 ## Usage
+
 install with built in server
+
 ```
 // 1. clone project
 git clone https://github.com/ndiing/server.git
@@ -20,34 +23,6 @@ npm start
 npm update
 
 // and then start over
-```
-
-for extended development
-```
-npm install @ndiinginc/{{packagename}}
-
-// example
-npm install @ndiinginc/sidompul
-```
-
-and then
-
-```js
-const {service} api require('@ndiinginc/sidompul')
-
-api s dompul = new service()
-
-// sidompul
-```
-
-api u ing as micro service route
-
-```js
-const sidompul = require('@ndiinginc/sidompul')
-
-const app = sidompul()
-
-app.listen(3000)
 ```
 
 ## Docs
