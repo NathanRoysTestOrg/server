@@ -1,7 +1,5 @@
 # Install
 
-Step pemasangan
-
 ```
 // 1. Clone Project
 git clone https://github.com/ndiing/server.git
@@ -19,20 +17,7 @@ npm start
 npm update
 ```
 
-## (Server) Reverse Proxy
-
-Digunakan untuk API Gateway sebagai reverse proxy yang di arahkan ke target yang diminta.
-
-## Kebutuhan Sistem
-
-Pastikan komputer sudah terpasang:
-
--   [nodejs](https://nodejs.org/dist/v16.17.0/node-v16.17.0-x64.msi)
--   [git](https://git-scm.com/download/win)
-
-## Daftar API
-
-{{description}}
+## List
 
 -   [x] **[`sidompul`](./api/sidompul/v1/README.md)**
 -   [ ] **[`digiposaja`](./api/digiposaja/v1/README.md)**
