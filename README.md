@@ -1,17 +1,6 @@
-# API Gateway
+# Install
 
-{{description}}
-
-## Requirement
-
-{{description}}
-
--   [nodejs](https://nodejs.org/dist/v16.17.0/node-v16.17.0-x64.msi)
--   [git](https://git-scm.com/download/win)
-
-## Install
-
-{{description}}
+Step pemasangan
 
 ```
 // 1. Clone Project
@@ -30,7 +19,18 @@ npm start
 npm update
 ```
 
-## List
+## (Server) Reverse Proxy
+
+Digunakan untuk API Gateway sebagai reverse proxy yang di arahkan ke target yang diminta.
+
+## Kebutuhan Sistem
+
+Pastikan komputer sudah terpasang:
+
+-   [nodejs](https://nodejs.org/dist/v16.17.0/node-v16.17.0-x64.msi)
+-   [git](https://git-scm.com/download/win)
+
+## Daftar API
 
 {{description}}
 
