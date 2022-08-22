@@ -17,8 +17,6 @@ msisdn|{{msisdn}}
 ### Examples
 
 ```
-GEThttp://localhost:3000/api/sidompul/v1/postV1AuthOtp?profileDirectory={{profileDirectory}}&msisdn={{msisdn}}
-
-
+GET http://localhost:3000/api/sidompul/v1/postV1AuthOtp?profileDirectory={{profileDirectory}}&msisdn={{msisdn}}
 ```
 

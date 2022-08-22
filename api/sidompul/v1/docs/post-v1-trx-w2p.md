@@ -19,8 +19,6 @@ pin|{{pin}}
 ### Examples
 Isi Pulsa
 ```
-GEThttp://localhost:3000/api/sidompul/v1/postV1TrxW2p?profileDirectory={{profileDirectory}}&denom=5000&msisdn=6287758437457&pin={{pin}}
-
-
+GET http://localhost:3000/api/sidompul/v1/postV1TrxW2p?profileDirectory={{profileDirectory}}&denom=5000&msisdn=6287758437457&pin={{pin}}
 ```
 

@@ -18,8 +18,6 @@ otp|522592
 ### Examples
 
 ```
-GEThttp://localhost:3000/api/sidompul/v1/getV3AuthOtp?profileDirectory={{profileDirectory}}&msisdn={{msisdn}}&otp=522592
-
-
+GET http://localhost:3000/api/sidompul/v1/getV3AuthOtp?profileDirectory={{profileDirectory}}&msisdn={{msisdn}}&otp=522592
 ```
 

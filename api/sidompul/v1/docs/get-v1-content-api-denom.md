@@ -17,8 +17,6 @@ brand|{{brand}}
 ### Examples
 Isi Pulsa &gt; Pilih Nominal
 ```
-GEThttp://localhost:3000/api/sidompul/v1/getV1ContentApiDenom?profileDirectory={{profileDirectory}}&brand={{brand}}
-
-
+GET http://localhost:3000/api/sidompul/v1/getV1ContentApiDenom?profileDirectory={{profileDirectory}}&brand={{brand}}
 ```
 

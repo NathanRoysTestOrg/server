@@ -17,8 +17,6 @@ brand|{{brand}}
 ### Examples
 Isi Paket &gt;
 ```
-GEThttp://localhost:3000/api/sidompul/v1/getV2ContentProfilingProductcategoriesv2?profileDirectory={{profileDirectory}}&brand={{brand}}
-
-
+GET http://localhost:3000/api/sidompul/v1/getV2ContentProfilingProductcategoriesv2?profileDirectory={{profileDirectory}}&brand={{brand}}
 ```
 

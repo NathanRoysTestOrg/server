@@ -16,8 +16,6 @@ profileDirectory|{{profileDirectory}}
 ### Examples
 
 ```
-GEThttp://localhost:3000/api/sidompul/v1/getV1AccountProfile?profileDirectory={{profileDirectory}}
-
-
+GET http://localhost:3000/api/sidompul/v1/getV1AccountProfile?profileDirectory={{profileDirectory}}
 ```
 

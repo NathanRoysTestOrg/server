@@ -17,8 +17,6 @@ msisdn|
 ### Examples
 Upgrade 4g
 ```
-GEThttp://localhost:3000/api/sidompul/v1/getV1Upgrade4gSimcardStatus4g?profileDirectory={{profileDirectory}}&msisdn=
-
-
+GET http://localhost:3000/api/sidompul/v1/getV1Upgrade4gSimcardStatus4g?profileDirectory={{profileDirectory}}&msisdn=
 ```
 

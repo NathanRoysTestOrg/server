@@ -19,8 +19,6 @@ pin|{{pin}}
 ### Examples
 Transfer Kuota
 ```
-GEThttp://localhost:3000/api/sidompul/v1/postV1TrxRedeemVoucherSa?profileDirectory={{profileDirectory}}&hrn=&msisdn=&pin={{pin}}
-
-
+GET http://localhost:3000/api/sidompul/v1/postV1TrxRedeemVoucherSa?profileDirectory={{profileDirectory}}&hrn=&msisdn=&pin={{pin}}
 ```
 
