@@ -1,41 +1,82 @@
-# Install
+# Server
+reverse proxy gateway
 
+## Usage
+install with built in server
 ```
-// 1. Clone Project
+// 1. clone project
 git clone https://github.com/ndiing/server.git
 
-// 2.
+// 2. change directory
 cd server
 
-// 3. Install
+// 3. install packages
 npm install
 
-// 4. Run
+// 4. run server
 npm start
 
-// For the next update
+// 5. when any update
 npm update
+
+// and then start over
 ```
 
-## Server
+for extended development
+```
+npm install @ndiinginc/{{packagename}}
 
-Reverse proxy gateway
+// example
+npm install @ndiinginc/sidompul
+```
 
-## List
+and then
 
-API Documentation
+```js
+const {service} = require('@ndiinginc/sidompul')
 
--   [x] **[`sidompul`](./api/sidompul/v1/README.md)**
--   [ ] **[`digiposaja`](./api/digiposaja/v1/README.md)**
--   [ ] **[`simpel`](./api/simpel/v1/README.md)**
--   [ ] **[`rita`](./api/rita/v1/README.md)**
--   [ ] **[`sris`](./api/sris/v1/README.md)**
--   [ ] **[`mitratokopedia`](./api/mitratokopedia/v1/README.md)**
--   [ ] **[`mitrabukalapak`](./api/mitrabukalapak/v1/README.md)**
--   [ ] **[`mitrashopee`](./api/mitrashopee/v1/README.md)**
--   [ ] **[`kiosgamer`](./api/kiosgamer/v1/README.md)**
--   [ ] **[`griyabayar`](./api/griyabayar/v1/README.md)**
--   [ ] **[`agenbni46`](./api/agenbni46/v1/README.md)**
--   [ ] **[`whatsapp`](./api/whatsapp/v1/README.md)**
--   [ ] **[`telegram`](./api/telegram/v1/README.md)**
--   [ ] **[`xmpp`](./api/xmpp/v1/README.md)**
+const sidompul = new service()
+
+// sidompul
+```
+
+or using as micro service route
+
+```js
+const sidompul = require('@ndiinginc/sidompul')
+
+const app = sidompul()
+
+app.listen(3000)
+```
+
+## Docs
+
+-   [x] **[`sidompul` restful](./api/sidompul/v1/README.md)**
+-   [x] **[`sidompul` service](./api/sidompul/v1/README.md)**
+-   [ ] **[`digiposaja` restful](./api/digiposaja/v1/README.md)**
+-   [ ] **[`digiposaja` service](./api/digiposaja/v1/README.md)**
+-   [ ] **[`simpel` restful](./api/simpel/v1/README.md)**
+-   [ ] **[`simpel` service](./api/simpel/v1/README.md)**
+-   [ ] **[`rita` restful](./api/rita/v1/README.md)**
+-   [ ] **[`rita` service](./api/rita/v1/README.md)**
+-   [ ] **[`sris` restful](./api/sris/v1/README.md)**
+-   [ ] **[`sris` service](./api/sris/v1/README.md)**
+-   [ ] **[`mitratokopedia` restful](./api/mitratokopedia/v1/README.md)**
+-   [ ] **[`mitratokopedia` service](./api/mitratokopedia/v1/README.md)**
+-   [ ] **[`mitrabukalapak` restful](./api/mitrabukalapak/v1/README.md)**
+-   [ ] **[`mitrabukalapak` service](./api/mitrabukalapak/v1/README.md)**
+-   [ ] **[`mitrashopee` restful](./api/mitrashopee/v1/README.md)**
+-   [ ] **[`mitrashopee` service](./api/mitrashopee/v1/README.md)**
+-   [ ] **[`kiosgamer` restful](./api/kiosgamer/v1/README.md)**
+-   [ ] **[`kiosgamer` service](./api/kiosgamer/v1/README.md)**
+-   [ ] **[`griyabayar` restful](./api/griyabayar/v1/README.md)**
+-   [ ] **[`griyabayar` service](./api/griyabayar/v1/README.md)**
+-   [ ] **[`agenbni46` restful](./api/agenbni46/v1/README.md)**
+-   [ ] **[`agenbni46` service](./api/agenbni46/v1/README.md)**
+-   [ ] **[`whatsapp` restful](./api/whatsapp/v1/README.md)**
+-   [ ] **[`whatsapp` service](./api/whatsapp/v1/README.md)**
+-   [ ] **[`telegram` restful](./api/telegram/v1/README.md)**
+-   [ ] **[`telegram` service](./api/telegram/v1/README.md)**
+-   [ ] **[`xmpp` restful](./api/xmpp/v1/README.md)**
+-   [ ] **[`xmpp` service](./api/xmpp/v1/README.md)**
