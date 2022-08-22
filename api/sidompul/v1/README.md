@@ -1,10 +1,6 @@
 ## sidompul
 
 
-###  
-
-- **[`GET` /](./docs/.md)** 
-
 ### auth 
 
 - **[`GET` /postV1AuthOtp](./docs/post-v1-auth-otp.md)** 
