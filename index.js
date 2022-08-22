@@ -17,7 +17,7 @@ app.use((req, res, next) => {
     next();
 });
 
-app.use("/api/sidompul/v1", sidompul({ key: process.env.SIDOMPUL_KEY }));
+app.use("/api/sidompul/v1", sidompul());
 
 // Mulai Server
 const server = app.listen(3000, () => {
