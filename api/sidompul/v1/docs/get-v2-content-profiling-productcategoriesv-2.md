@@ -9,8 +9,7 @@ GET /api/sidompul/v1/getV2ContentProfilingProductcategoriesv2
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-profileDirectory|{{profileDirectory}}|
-brand|{{brand}}|
+brand|XL|Input brand
 
 
 

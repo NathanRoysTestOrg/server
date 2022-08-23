@@ -9,8 +9,7 @@ GET /api/sidompul/v1/postV1AuthOtp
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-profileDirectory|{{profileDirectory}}|
-msisdn|{{msisdn}}|
+msisdn||Input msisdn
 
 
 

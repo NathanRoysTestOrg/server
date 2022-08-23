@@ -9,8 +9,7 @@ GET /api/sidompul/v1/getV1ContentApiDenom
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-profileDirectory|{{profileDirectory}}|
-brand|{{brand}}|
+brand|XL|Input brand
 
 
 
