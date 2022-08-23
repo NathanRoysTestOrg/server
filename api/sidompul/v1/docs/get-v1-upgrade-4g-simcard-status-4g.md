@@ -9,7 +9,7 @@ GET /api/sidompul/v1/getV1Upgrade4gSimcardStatus4g
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-profileDirectory|{{profileDirectory}}|
+profileDirectory||
 msisdn||
 
 

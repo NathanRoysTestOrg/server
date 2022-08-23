@@ -9,7 +9,7 @@ GET /api/sidompul/v1/getV1PackageValidity
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-profileDirectory|{{profileDirectory}}|
+profileDirectory||
 msisdn||
 voucherCode||
 

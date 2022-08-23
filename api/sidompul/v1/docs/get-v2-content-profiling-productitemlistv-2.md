@@ -9,10 +9,10 @@ GET /api/sidompul/v1/getV2ContentProfilingProductitemlistv2
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-profileDirectory|{{profileDirectory}}|
-brand|{{brand}}|
-product-category|XTRA+KUOTA|
-msisdn-b|6281935155404|
+profileDirectory||
+brand||
+product-category||
+msisdn-b||
 
 
 

@@ -9,12 +9,12 @@ GET /api/sidompul/v1/postV1TrxClaimTaggingRo
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-profileDirectory|{{profileDirectory}}|
+profileDirectory||
 inputValidation||
 msisdn||
-pin|{{pin}}|
+pin||
 programId||
-programType|SP|
+programType||
 
 
 

@@ -9,9 +9,9 @@ GET /api/sidompul/v1/getV2CommonVoucherSa
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-profileDirectory|{{profileDirectory}}|
-type|SA|
-voucherCode|1234567891234567|
+profileDirectory||
+type||
+voucherCode||
 
 
 

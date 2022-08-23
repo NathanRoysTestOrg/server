@@ -9,7 +9,7 @@ GET /api/sidompul/v1/postV3AuthLogout
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-profileDirectory|{{profileDirectory}}|
+profileDirectory||
 
 
 

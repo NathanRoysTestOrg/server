@@ -9,12 +9,12 @@ GET /api/sidompul/v1/postV1TrxPackage
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-profileDirectory|{{profileDirectory}}|
-msisdn|6281935155404|
+profileDirectory||
+msisdn||
 offerId||
-originalProduct|XKY7|
-pin|{{pin}}|
-productCode|XKY7|
+originalProduct||
+pin||
+productCode||
 
 
 

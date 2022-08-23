@@ -9,9 +9,9 @@ GET /api/sidompul/v1/getV2ContentProfilingProductbenefit
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-profileDirectory|{{profileDirectory}}|
-product-code|kRTpRPK9Xde5F9HiHneT7AltURneAqMfGDubf29gx04Kk+GBnpiOXwyS8jAkYtkDiQ7ksAOI3YpqRWyhI3r9fA88Kfg3Fu+nmk8WoL8o1BVFarmBDItmFysfc0BnAKFtgEjJR2u5Mx46YCWdUdVtDWPN9KbjM4vXiG1TfptPOMZQ8TTDhksZ79dR/ZcIpKB/6aedtcVAwr3L2bxZKKQgoQ&#x3D;&#x3D;|
-flag-encrypt|true|
+profileDirectory||
+product-code||
+flag-encrypt||
 
 
 

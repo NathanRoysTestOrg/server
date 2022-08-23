@@ -9,9 +9,9 @@ GET /api/sidompul/v1/getV1PackageEligibility
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-profileDirectory|{{profileDirectory}}|
+profileDirectory||
 msisdn||
-eligibility|A|
+eligibility||
 
 
 
