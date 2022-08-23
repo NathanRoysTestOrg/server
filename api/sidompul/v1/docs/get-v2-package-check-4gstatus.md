@@ -6,6 +6,11 @@ Info Nomor (Check4gstatus)
 GET /api/sidompul/v1/getV2PackageCheck4gstatus
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+profileDirectory|{{profileDirectory}}|
+msisdn|6281935155404|
 
 
 

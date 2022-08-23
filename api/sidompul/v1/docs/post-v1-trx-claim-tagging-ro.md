@@ -14,7 +14,7 @@ inputValidation||
 msisdn||
 pin|{{pin}}|
 programId||
-programType|VOUCHER,SPBUNDLING|
+programType|SP|
 
 
 

@@ -6,6 +6,11 @@ Info Nomor (CheckDukcapil)
 GET /api/sidompul/v1/getV2PackageCheckDukcapil
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+profileDirectory|{{profileDirectory}}|
+msisdn|6281935155404|
 
 
 

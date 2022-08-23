@@ -6,6 +6,15 @@ Isi Paket
 GET /api/sidompul/v1/postV1TrxPackage
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+profileDirectory|{{profileDirectory}}|
+msisdn|6281935155404|
+offerId||
+originalProduct|XKY7|
+pin|{{pin}}|
+productCode|XKY7|
 
 
 

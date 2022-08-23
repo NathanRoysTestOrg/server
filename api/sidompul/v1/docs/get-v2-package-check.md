@@ -6,6 +6,11 @@ Info Nomor (Check)
 GET /api/sidompul/v1/getV2PackageCheck
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+profileDirectory|{{profileDirectory}}|
+msisdn|6281935155404|
 
 
 

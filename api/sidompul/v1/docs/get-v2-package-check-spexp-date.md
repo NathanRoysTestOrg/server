@@ -6,6 +6,11 @@ Info Nomor (CheckSpexpDate)
 GET /api/sidompul/v1/getV2PackageCheckSpexpDate
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+profileDirectory|{{profileDirectory}}|
+msisdn|6281935155404|
 
 
 

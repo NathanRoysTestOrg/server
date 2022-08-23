@@ -6,6 +6,15 @@ CuanKu Spesial (TrxPackage)
 GET /api/sidompul/v1/postV2TrxPackage
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+profileDirectory|{{profileDirectory}}|
+msisdn|6281935155404|
+offerId|197912|
+originalProduct||
+pin|{{pin}}|
+productCode|XRN3LvksiERXHHTkl/YppStYSNUpCGwytRLwjRwQuZbutN7S8pAPK2mNzTfWDrAdR/NSm/im7yB22RHIqVIu37eXkNiJYaTxPld8haTAam2MMn7y6TtgNnm4wFONdd5QoFB3rbUNqbhW5VC+fQfq/h4RCNYeyObuK/VtNiVfRoyW+X6uTdkRXuh6MCOKqcK3sPRQYH8T3KwiFU/SsE+TUw&#x3D;&#x3D;|
 
 
 

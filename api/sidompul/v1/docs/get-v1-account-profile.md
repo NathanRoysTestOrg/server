@@ -6,6 +6,10 @@ Profil
 GET /api/sidompul/v1/getV1AccountProfile
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+profileDirectory|{{profileDirectory}}|
 
 
 

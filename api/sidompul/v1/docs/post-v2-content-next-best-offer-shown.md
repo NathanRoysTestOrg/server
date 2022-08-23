@@ -6,6 +6,13 @@ CuanKu Spesial (BestOfferShown)
 GET /api/sidompul/v1/postV2ContentNextBestOfferShown
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+profileDirectory|{{profileDirectory}}|
+msisdn|6281935155404|
+location|NBO|
+offerId|1492|
 
 
 

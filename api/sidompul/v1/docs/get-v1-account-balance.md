@@ -6,6 +6,10 @@ Saldo Dompul
 GET /api/sidompul/v1/getV1AccountBalance
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+profileDirectory|{{profileDirectory}}|
 
 
 

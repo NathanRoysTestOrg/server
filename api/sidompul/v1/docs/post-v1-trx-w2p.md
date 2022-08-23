@@ -9,9 +9,10 @@ GET /api/sidompul/v1/postV1TrxW2p
 ### Parameters
 Name | Default | Description
 --- | --- | ---
-denom||Input denom
-msisdn||Input msisdn
-pin||Input pin
+profileDirectory|{{profileDirectory}}|
+denom|5000|
+msisdn|6287758437457|
+pin|{{pin}}|
 
 
 

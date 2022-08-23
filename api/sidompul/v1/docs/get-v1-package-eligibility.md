@@ -11,7 +11,7 @@ Name | Default | Description
 --- | --- | ---
 profileDirectory|{{profileDirectory}}|
 msisdn||
-eligibility|B|
+eligibility|A|
 
 
 

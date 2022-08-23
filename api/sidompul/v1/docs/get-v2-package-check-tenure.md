@@ -6,6 +6,11 @@ Info Nomor (CheckTenure)
 GET /api/sidompul/v1/getV2PackageCheckTenure
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+profileDirectory|{{profileDirectory}}|
+msisdn|6281935155404|
 
 
 

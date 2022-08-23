@@ -10,7 +10,7 @@ GET /api/sidompul/v1/getV2CommonVoucherSa
 Name | Default | Description
 --- | --- | ---
 profileDirectory|{{profileDirectory}}|
-type|HYBRID,AIGO|
+type|SA|
 voucherCode|1234567891234567|
 
 
