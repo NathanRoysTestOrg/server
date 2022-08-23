@@ -3,9 +3,9 @@
 
 ### auth 
 
-- **[`GET` postV1AuthOtp](./docs/post-v1-auth-otp.md)** 
-- **[`GET` getV3AuthOtp](./docs/get-v3-auth-otp.md)** 
-- **[`GET` postV3AuthLogout](./docs/post-v3-auth-logout.md)** 
+- **[`GET` Retail Outlet Login](./docs/post-v1-auth-otp.md)** 
+- **[`GET` Masuk (OTP)](./docs/get-v3-auth-otp.md)** 
+- **[`GET` Keluar](./docs/post-v3-auth-logout.md)** 
 
 ### login 
 
