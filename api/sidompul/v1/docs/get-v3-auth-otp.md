@@ -6,6 +6,11 @@
 GET /api/sidompul/v1/getV3AuthOtp
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+msisdn||Input msisdn
+otp||Input otp
 
 
 

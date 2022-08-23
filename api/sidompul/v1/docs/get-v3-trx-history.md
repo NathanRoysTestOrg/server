@@ -6,6 +6,15 @@ Riwayat &gt; Riwayat Transaksi
 GET /api/sidompul/v1/getV3TrxHistory
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+servicetype|w2p-fulfillment-w2w-other-payro|Input servicetype
+startdate||Input startdate
+enddate||Input enddate
+q||Input q
+startamount|100|Input startamount
+endamount|1000000000|Input endamount
 
 
 

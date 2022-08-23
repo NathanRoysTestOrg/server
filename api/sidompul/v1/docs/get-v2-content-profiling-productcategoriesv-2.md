@@ -6,6 +6,10 @@ Isi Paket &gt; Pilih Paket (categories)
 GET /api/sidompul/v1/getV2ContentProfilingProductcategoriesv2
 ```
 
+### Parameters
+Name | Default | Description
+--- | --- | ---
+brand|XL|Input brand
 
 
 
