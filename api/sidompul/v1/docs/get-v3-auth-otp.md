@@ -1,4 +1,4 @@
-## /getV3AuthOtp
+## getV3AuthOtp
 
 
 ### Target
@@ -11,13 +11,13 @@ Name | Value
 --- | ---
 profileDirectory|{{profileDirectory}}
 msisdn|{{msisdn}}
-otp|522592
+otp|245301
 
 
 
 ### Examples
 
 ```
-GET http://localhost:3000/api/sidompul/v1/getV3AuthOtp?profileDirectory={{profileDirectory}}&msisdn={{msisdn}}&otp=522592
+GET http://localhost:3000/api/sidompul/v1/getV3AuthOtp?profileDirectory={{profileDirectory}}&msisdn={{msisdn}}&otp=245301
 ```
 

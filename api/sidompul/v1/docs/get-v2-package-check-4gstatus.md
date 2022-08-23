@@ -1,4 +1,4 @@
-## /getV2PackageCheck4gstatus
+## getV2PackageCheck4gstatus
 Info Nomor
 
 ### Target

@@ -1,4 +1,4 @@
-## /getV2PackageCheckBalance
+## getV2PackageCheckBalance
 Info Nomor
 
 ### Target

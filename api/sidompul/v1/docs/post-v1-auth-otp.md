@@ -1,4 +1,4 @@
-## /postV1AuthOtp
+## postV1AuthOtp
 
 
 ### Target

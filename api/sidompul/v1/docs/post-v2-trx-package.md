@@ -1,4 +1,4 @@
-## /postV2TrxPackage
+## postV2TrxPackage
 CuanKu Spesial &gt;
 
 ### Target

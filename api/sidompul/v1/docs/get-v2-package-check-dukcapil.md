@@ -1,4 +1,4 @@
-## /getV2PackageCheckDukcapil
+## getV2PackageCheckDukcapil
 Info Nomor
 
 ### Target

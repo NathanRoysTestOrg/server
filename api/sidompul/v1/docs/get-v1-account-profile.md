@@ -1,4 +1,4 @@
-## /getV1AccountProfile
+## getV1AccountProfile
 
 
 ### Target

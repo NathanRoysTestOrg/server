@@ -1,4 +1,4 @@
-## /postV1TrxRedeemVoucherSa
+## postV1TrxRedeemVoucherSa
 Transfer Kuota
 
 ### Target

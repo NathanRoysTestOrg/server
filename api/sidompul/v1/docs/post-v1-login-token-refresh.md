@@ -1,4 +1,4 @@
-## /postV1LoginTokenRefresh
+## postV1LoginTokenRefresh
 
 
 ### Target

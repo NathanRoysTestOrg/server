@@ -1,4 +1,4 @@
-## /getV2PackageCheck
+## getV2PackageCheck
 Info Nomor
 
 ### Target

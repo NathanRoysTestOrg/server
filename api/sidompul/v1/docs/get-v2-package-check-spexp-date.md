@@ -1,4 +1,4 @@
-## /getV2PackageCheckSpexpDate
+## getV2PackageCheckSpexpDate
 Info Nomor
 
 ### Target

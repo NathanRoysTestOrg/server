@@ -1,4 +1,4 @@
-## /getV1PackageValidity
+## getV1PackageValidity
 Cek Voucher Hybrid
 
 ### Target

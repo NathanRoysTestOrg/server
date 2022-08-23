@@ -1,4 +1,4 @@
-## /getV1ContentApiDenom
+## getV1ContentApiDenom
 Isi Pulsa &gt; Pilih Nominal
 
 ### Target

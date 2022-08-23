@@ -1,4 +1,4 @@
-## /getV1AccountBalance
+## getV1AccountBalance
 
 
 ### Target

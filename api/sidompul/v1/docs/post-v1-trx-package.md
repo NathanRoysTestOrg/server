@@ -1,4 +1,4 @@
-## /postV1TrxPackage
+## postV1TrxPackage
 Isi Paket
 
 ### Target

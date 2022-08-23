@@ -1,4 +1,4 @@
-## /getV2ContentProfilingProductitemlistv2
+## getV2ContentProfilingProductitemlistv2
 Isi Paket &gt;
 
 ### Target

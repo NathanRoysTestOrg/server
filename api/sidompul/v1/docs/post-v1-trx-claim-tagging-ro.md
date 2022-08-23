@@ -1,4 +1,4 @@
-## /postV1TrxClaimTaggingRo
+## postV1TrxClaimTaggingRo
 Tagging HOT programType&#x3D;(SP),VOUCHER,SPBUNDLING
 
 ### Target

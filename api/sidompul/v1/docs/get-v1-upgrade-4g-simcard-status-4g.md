@@ -1,4 +1,4 @@
-## /getV1Upgrade4gSimcardStatus4g
+## getV1Upgrade4gSimcardStatus4g
 Upgrade 4g
 
 ### Target

@@ -1,4 +1,4 @@
-## /getV3TrxHistory
+## getV3TrxHistory
 Riwayat Transaksi
 
 ### Target

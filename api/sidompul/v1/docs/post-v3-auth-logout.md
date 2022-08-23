@@ -1,4 +1,4 @@
-## /postV3AuthLogout
+## postV3AuthLogout
 
 
 ### Target

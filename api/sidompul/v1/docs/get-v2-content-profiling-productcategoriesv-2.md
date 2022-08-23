@@ -1,4 +1,4 @@
-## /getV2ContentProfilingProductcategoriesv2
+## getV2ContentProfilingProductcategoriesv2
 Isi Paket &gt;
 
 ### Target

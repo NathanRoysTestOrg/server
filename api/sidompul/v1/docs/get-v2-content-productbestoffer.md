@@ -1,4 +1,4 @@
-## /getV2ContentProductbestoffer
+## getV2ContentProductbestoffer
 Isi Paket &gt;
 
 ### Target

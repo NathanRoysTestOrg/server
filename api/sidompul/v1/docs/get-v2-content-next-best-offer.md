@@ -1,4 +1,4 @@
-## /getV2ContentNextBestOffer
+## getV2ContentNextBestOffer
 CuanKu Spesial
 
 ### Target

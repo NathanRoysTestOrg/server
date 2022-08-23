@@ -1,4 +1,4 @@
-## /getV1PackageEligibility
+## getV1PackageEligibility
 Cek Transfer Kuota eligibility&#x3D;(A),B A&#x3D;Pengirim B&#x3D;Penerima
 
 ### Target

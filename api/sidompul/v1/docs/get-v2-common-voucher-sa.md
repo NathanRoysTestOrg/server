@@ -1,4 +1,4 @@
-## /getV2CommonVoucherSa
+## getV2CommonVoucherSa
 Cek Status Voucher type&#x3D;(SA),HYBRID,AIGO
 
 ### Target

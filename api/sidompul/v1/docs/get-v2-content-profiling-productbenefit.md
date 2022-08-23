@@ -1,4 +1,4 @@
-## /getV2ContentProfilingProductbenefit
+## getV2ContentProfilingProductbenefit
 CuanKu Spesial &gt;
 
 ### Target

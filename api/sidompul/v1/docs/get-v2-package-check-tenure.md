@@ -1,4 +1,4 @@
-## /getV2PackageCheckTenure
+## getV2PackageCheckTenure
 Info Nomor
 
 ### Target

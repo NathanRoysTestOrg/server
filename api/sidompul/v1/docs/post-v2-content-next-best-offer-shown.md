@@ -1,4 +1,4 @@
-## /postV2ContentNextBestOfferShown
+## postV2ContentNextBestOfferShown
 CuanKu Spesial &gt;
 
 ### Target
