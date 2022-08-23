@@ -6,12 +6,6 @@ Cek Voucher Hybrid
 GET /api/sidompul/v1/getV1PackageValidity
 ```
 
-### Parameters
-Name | Value
---- | ---
-profileDirectory|{{profileDirectory}}
-msisdn|
-voucherCode|
 
 
 

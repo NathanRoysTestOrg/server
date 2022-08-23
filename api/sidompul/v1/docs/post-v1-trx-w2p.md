@@ -6,13 +6,6 @@ Isi Pulsa
 GET /api/sidompul/v1/postV1TrxW2p
 ```
 
-### Parameters
-Name | Value
---- | ---
-profileDirectory|{{profileDirectory}}
-denom|5000
-msisdn|6287758437457
-pin|{{pin}}
 
 
 

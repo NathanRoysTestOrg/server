@@ -6,11 +6,6 @@ Isi Pulsa &gt; Pilih Nominal
 GET /api/sidompul/v1/getV1ContentApiDenom
 ```
 
-### Parameters
-Name | Value
---- | ---
-profileDirectory|{{profileDirectory}}
-brand|{{brand}}
 
 
 

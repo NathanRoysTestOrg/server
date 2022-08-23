@@ -6,10 +6,6 @@
 GET /api/sidompul/v1/postV3AuthLogout
 ```
 
-### Parameters
-Name | Value
---- | ---
-profileDirectory|{{profileDirectory}}
 
 
 

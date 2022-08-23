@@ -6,11 +6,6 @@
 GET /api/sidompul/v1/postV1AuthOtp
 ```
 
-### Parameters
-Name | Value
---- | ---
-profileDirectory|{{profileDirectory}}
-msisdn|{{msisdn}}
 
 
 

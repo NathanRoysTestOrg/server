@@ -6,12 +6,6 @@
 GET /api/sidompul/v1/getV3AuthOtp
 ```
 
-### Parameters
-Name | Value
---- | ---
-profileDirectory|{{profileDirectory}}
-msisdn|{{msisdn}}
-otp|245301
 
 
 

@@ -6,10 +6,6 @@
 GET /api/sidompul/v1/postV1LoginTokenRefresh
 ```
 
-### Parameters
-Name | Value
---- | ---
-profileDirectory|{{profileDirectory}}
 
 
 

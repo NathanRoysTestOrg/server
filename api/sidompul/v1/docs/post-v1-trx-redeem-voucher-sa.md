@@ -6,13 +6,6 @@ Transfer Kuota
 GET /api/sidompul/v1/postV1TrxRedeemVoucherSa
 ```
 
-### Parameters
-Name | Value
---- | ---
-profileDirectory|{{profileDirectory}}
-hrn|
-msisdn|
-pin|{{pin}}
 
 
 
