@@ -17,7 +17,7 @@ app.use((req, res, next) => {
     next();
 });
 
-app.use("/api/sidompul/v1", sidompul());
+app.use("/api/sidompul/v1", sidompul);
 
 // Mulai Server
 const server = app.listen(3000, () => {
