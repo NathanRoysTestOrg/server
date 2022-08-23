@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "@ndiinginc/router": "^1.0.9",
-    "@ndiinginc/sidompul": "^1.0.0"
+    "@ndiinginc/router": "^1.0.12",
+    "@ndiinginc/sidompul": "^1.0.28"
   },
   "name": "@ndiinginc/server",
   "description": "server",
