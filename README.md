@@ -1,26 +1,23 @@
 # Install
 
-#### Clone project
 ```
+// 1. Clone project
 git clone https://github.com/ndiing/server.git
-```
-#### Change directory
-```
-cd server
-```
-#### Install packages
-```
-npm install
-```
-#### Start server
-```
-npm start
-```
-#### Install any update
-```
-npm update
 
-// and then start again
+// 2. Change directory
+cd server
+
+// 3. Install packages
+npm install
+
+// 4. Start server
+npm start
+
+// Done
+
+// 1. Install any update
+npm update
+// 2. and then start again
 npm start
 ```
 
