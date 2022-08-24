@@ -1,40 +1,30 @@
 # Server
 
-API Gateway
+Koleksi service pihak ketiga, untuk kebutuhan riset atau komersial, singkatnya API Gateway atau reverse proxy server
 
 ## Instalasi
 
-Langkah pemasangan, pastikan `nodejs` dan `git` sudah terpasang pada pc anda.
+Ikuti langkah pemasangan dibawah ini, pastikan [`nodejs`](https://nodejs.org/en/download/) dan [`git`](https://git-scm.com/downloads) sudah terpasang pada perangkat anda.
 
-```
-// 1. Download/Clone project
-git clone https://github.com/ndiing/server.git
-
-// 2. Ubah folder
-cd server
-
-// 3. Install packages/module
-npm install
-
-// 4. Jalankan server
-npm start
+```console
+> git clone https://github.com/ndiing/server.git
+> cd server
+> npm install
+> npm start
 ```
 
-## Pembaruan
+## Instal pembaruan
 
-Update pembaruan packages/module
+Untuk pembaruan selanjutnya ikuti langkah ini
 
-```
-// 1. Update
+```console
 npm update
-
-// 2. Jalankan kembali
 npm start
 ```
 
 ## Dokumentasi
 
-Dokumentasi API
+Dokumentasi penguna API
 
 <dl>
 <dt><a href="./api/sidompul/v1/README.md"><code>SiDOMPUL 4.4.0</code></a></dt>
@@ -95,8 +85,8 @@ Dokumentasi API
 
 ## Informasi
 
-> Semua data kredensial adalah tanggung jawab masing-masing pengguna, kami tidak menyimpan data yang digunakan pada API ini, seperti data sessions cookies dan lain sebagainya, data disimpan pada drive lokal masing-masing, lokasi penyimpanan dapat di sesuaikan, default `./data/{hostname}/{session}.json`.
+> Service ini dirancang dengan `Low Level Security`, seperti layaknya micro service pada umumnya, di desain untuk membatu server utama sebagai transport data, tentunya juga mengabaikan `XSS` untuk mensupport aplikasi lama dengan keterbatasan request dan callback response. dan juga fokus pada kecepatan dan ketepatan data.
 
-> Beberapa Login yang digunakan mungkin tidak tersedia pada end point, dan dibutuhkan penanganan khusus.
+> Keamanan data kredensial seperti session dan cookies ditanggung oleh pengguna, kami tidak menyimpan data tersebut, dan disimpan pada drive lokal, lokasi sementara `./data/{api-name}/{session-name}.json`
 
-> Server API Gateway / Reverse proxy server di rancang menggunakan low level security, tidak disarankan menggunakan jaringan public, implementasi pada service ini seperti layaknya micro service, dan sebagaian besar endpoint mengabaikan `XSS` untuk mensupport aplikasi lama yang hanya dapat melakukan request dan response terbatas.
+> Beberapa service mungkin dibutuhkan penanganan khusus, seperti resolve puzzle captcha, mempertimbangkan efisiensi kerja, fitur seperti automation tidak kami gunakan karna akan memperberat system dan juga kurang efektif untuk kinerja level ini.
