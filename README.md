@@ -18,8 +18,8 @@ Ikuti langkah pemasangan dibawah ini, pastikan [`nodejs`](https://nodejs.org/en/
 Untuk pembaruan selanjutnya ikuti langkah ini
 
 ```console
-npm update
-npm start
+> npm update
+> npm start
 ```
 
 ## Dokumentasi
