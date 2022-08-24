@@ -24,11 +24,11 @@
     npm start
     ```
 
-# Server
+## Server
 
 reverse proxy gateway
 
-## Docs
+## Documentations
 
 <dl>
 <dt><a href="./api/sidompul/v1/README.md"><code>sidompul</code></a></dt>
