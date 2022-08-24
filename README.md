@@ -1,9 +1,9 @@
 # Install
 
-Clone project
-<pre>
-git clone https://github.com/ndiing/server.git
-</pre>
+<dl>
+<dt>1. Clone project</dt>
+<dd><pre>git clone https://github.com/ndiing/server.git</pre></dd>
+</dl>
 
 # Server
 
