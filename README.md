@@ -32,6 +32,7 @@ reverse proxy gateway
 
 <dl>
 <dt><a href="./api/sidompul/v1/README.md"><code>sidompul</code></a></dt>
+<dd>SiDOMPUL adalah aplikasi penjualan resmi produk XL dan AXIS mulai dari pulsa, paket internet, voucher hingga produk digital lainnya. SiDOMPUL dapat digunakan oleh seseorang yang tertarik untuk berjualan produk XL/AXIS maupun Retail Outlet resmi XL Axiata.</dd>
 </dl>
 <dl>
 <dt><a href="./api/digiposaja/v1/README.md"><code>digiposaja</code></a></dt>
