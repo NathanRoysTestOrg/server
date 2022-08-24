@@ -23,8 +23,6 @@ npm start
 
 ## Server
 
-reverse proxy gateway
-
 ![](https://avinetworks.com/wp-content/uploads/2020/01/reverse-proxy-server-diagram_1.png)
 
 ## Documentations
