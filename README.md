@@ -1,28 +1,28 @@
 # Install
 
-1. Clone project
-    ```
-    git clone https://github.com/ndiing/server.git
-    ```
-1. Change directory
-    ```
-    cd server
-    ```
-1. Install packages
-    ```
-    npm install
-    ```
-1. Start server
-    ```
-    npm start
-    ```
-1. Install any update
-    ```
-    npm update
-    
-    // and then start again
-    npm start
-    ```
+#### Clone project
+```
+git clone https://github.com/ndiing/server.git
+```
+#### Change directory
+```
+cd server
+```
+#### Install packages
+```
+npm install
+```
+#### Start server
+```
+npm start
+```
+#### Install any update
+```
+npm update
+
+// and then start again
+npm start
+```
 
 ## Server
 
