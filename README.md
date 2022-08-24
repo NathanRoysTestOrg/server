@@ -21,8 +21,8 @@ npm start
 ## Dokumentasi
 
 <dl>
-<dt><a href="./api/sidompul/v1/README.md"><code>sidompul</code></a></dt>
-<dd>SiDOMPUL 4.4.0</dd>
+<dt><a href="./api/sidompul/v1/README.md"><code>SiDOMPUL 4.4.0</code></a></dt>
+<dd></dd>
 </dl>
 <dl>
 <dt><a href="./api/digiposaja/v1/README.md"><code>digiposaja</code></a></dt>
@@ -49,15 +49,8 @@ npm start
 <dd></dd>
 </dl>
 <dl>
-<dt><a href="./api/mitrashopee/v1/README.md"><code>mitrashopee</code></a></dt>
-<dd>
-    <dl>
-        <dt>Mitra Shopee: Jual Pulsa, PPOB 1.46.0</dt>
-        <dd>Diperlukan login pemasangan.</dd>
-        <dt><a href="./docs/">Download APK Android 4.4+</a></dt>
-        <dt><a href="./docs/">Download APK Android 11+</a></dt>
-    </dl>
-</dd>
+<dt><a href="./api/mitrashopee/v1/README.md"><code>Mitra Shopee: Jual Pulsa, PPOB 1.46.0</code></a></dt>
+<dd>Dibutuhkan login dengan penanganan khusus, download unofficial APK untuk <a href="./docs/"><code>Android 4.4+</code></a> atau <a href="./docs/"><code>Android 11+</code></a></dd>
 </dl>
 <dl>
 <dt><a href="./api/kiosgamer/v1/README.md"><code>kiosgamer</code></a></dt>
