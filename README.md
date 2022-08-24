@@ -3,13 +3,10 @@
 ```
 // 1. Clone project
 git clone https://github.com/ndiing/server.git
-
 // 2. Change directory
 cd server
-
 // 3. Install packages
 npm install
-
 // 4. Start server
 npm start
 
@@ -44,6 +41,7 @@ npm start
 </dl>
 <dl>
 <dt><a href="./api/mitrabukalapak/v1/README.md"><code>mitrabukalapak</code></a></dt>
+<dd>Mitra Bukalapak (sebelumnya dikenal sebagai Agen Bukalapak) dengan segudang keuntungannya bikin jualan cepat, gampang dan untung!</dd>
 </dl>
 <dl>
 <dt><a href="./api/mitrashopee/v1/README.md"><code>mitrashopee</code></a></dt>
