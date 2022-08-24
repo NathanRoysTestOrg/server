@@ -1,28 +1,28 @@
-# Install
+# Instalasi
 
 ```
-// 1. Clone project
+// 1. Download `server`
 git clone https://github.com/ndiing/server.git
-// 2. Change directory
+// 2. Ubah folder ke `server`
 cd server
 // 3. Install packages
 npm install
-// 4. Start server
+// 4. Mulai server
 npm start
 
-// Done
+// Selesai pada tahapan ini.
 
-// 1. Install any update
+// 1. Jika update tersedia
 npm update
-// 2. and then start again
+// 2. dan jalankan kembali
 npm start
 ```
 
-## Documentations
+## Dokumentasi
 
 <dl>
 <dt><a href="./api/sidompul/v1/README.md"><code>sidompul</code></a></dt>
-<dd>SiDOMPUL</dd>
+<dd>SiDOMPUL 4.4.0</dd>
 </dl>
 <dl>
 <dt><a href="./api/digiposaja/v1/README.md"><code>digiposaja</code></a></dt>
@@ -42,15 +42,22 @@ npm start
 </dl>
 <dl>
 <dt><a href="./api/mitratokopedia/v1/README.md"><code>mitratokopedia</code></a></dt>
-<dd>Mitra Tokopedia: PPOB & Grosir</dd>
+<dd></dd>
 </dl>
 <dl>
 <dt><a href="./api/mitrabukalapak/v1/README.md"><code>mitrabukalapak</code></a></dt>
-<dd>Mitra Bukalapak: Pulsa, Grosir</dd>
+<dd></dd>
 </dl>
 <dl>
 <dt><a href="./api/mitrashopee/v1/README.md"><code>mitrashopee</code></a></dt>
-<dd>Mitra Shopee: Jual Pulsa, PPOB</dd>
+<dd>
+    <dl>
+        <dt>Mitra Shopee: Jual Pulsa, PPOB 1.46.0</dt>
+        <dd>Diperlukan login pemasangan.</dd>
+        <dt><a href="./docs/">Download APK Android 4.4+</a></dt>
+        <dt><a href="./docs/">Download APK Android 11+</a></dt>
+    </dl>
+</dd>
 </dl>
 <dl>
 <dt><a href="./api/kiosgamer/v1/README.md"><code>kiosgamer</code></a></dt>
