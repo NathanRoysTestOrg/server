@@ -96,4 +96,7 @@ Dokumentasi API
 ## Informasi
 
 > Semua data kredensial adalah tanggung jawab masing-masing pengguna, kami tidak menyimpan data yang digunakan pada API ini, seperti data sessions cookies dan lain sebagainya, data disimpan pada drive lokal masing-masing, lokasi penyimpanan dapat di sesuaikan, default `./data/{hostname}/{session}.json`.
+
 > Beberapa Login yang digunakan mungkin tidak tersedia pada end point, dan dibutuhkan penanganan khusus.
+
+> Server API Gateway / Reverse proxy server di rancang menggunakan low level security, tidak disarankan menggunakan jaringan public, implementasi pada service ini seperti layaknya micro service, dan sebagaian besar endpoint mengabaikan `XSS` untuk mensupport aplikasi lama yang hanya dapat melakukan request dan response terbatas.
