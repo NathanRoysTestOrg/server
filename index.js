@@ -8,7 +8,14 @@ const sidompul = require("@ndiinginc/sidompul");
 // WhiteList Alamat IP
 const whitelist = ["127.0.0.1"];
 
-const app = new Router();
+const app = Router({
+    // body: null,
+    security: null,
+    // compression: null,
+    cache: null,
+    cookie: null,
+    limiter: null,
+});
 app.use((req, res, next) => {
     if (!whitelist.includes(req.ip)) {
         res.status = 403;
