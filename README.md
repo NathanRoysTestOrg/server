@@ -6,20 +6,66 @@ Koleksi service pihak ketiga, untuk kebutuhan riset atau komersial, singkatnya A
 
 Ikuti langkah pemasangan dibawah ini, pastikan [`nodejs`](https://nodejs.org/en/download/) dan [`git`](https://git-scm.com/downloads) sudah terpasang pada perangkat anda.
 
+1. Download / Clone project `git clone https://github.com/ndiing/server.git`
+
 ```console
-> git clone https://github.com/ndiing/server.git
-> cd server
-> npm install
-> npm start
+Ndiing@DESKTOP-GNTG2JS MINGW64 ~/Downloads
+$ git clone https://github.com/ndiing/server.git
+Cloning into 'server'...
+remote: Enumerating objects: 671, done.
+remote: Counting objects: 100% (272/272), done.
+remote: Compressing objects: 100% (148/148), done.
+remote: Total 671 (delta 184), reused 184 (delta 104), pack-reused 399 eceiving
+objects:  82% (551/671), 372.01 KiB | 351.00
+Receiving objects: 100% (671/671), 623.15 KiB | 443.00 KiB/s, done.
+Resolving deltas: 100% (401/401), done.
 ```
 
-## Instal pembaruan
-
-Untuk pembaruan selanjutnya ikuti langkah ini
+2. Masuk ke folder `cd server`
 
 ```console
-> npm update
-> npm start
+Ndiing@DESKTOP-GNTG2JS MINGW64 ~/Downloads
+$ cd server
+```
+
+3. Install packages `npm install`
+
+```console
+Ndiing@DESKTOP-GNTG2JS MINGW64 ~/Downloads/server (main)
+$ npm install
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=glo
+bal` instead.
+
+added 6 packages, and audited 7 packages in 1s
+
+found 0 vulnerabilities
+```
+
+4. Mulai server `npm start`
+
+```console
+Ndiing@DESKTOP-GNTG2JS MINGW64 ~/Downloads/server (main)
+$ npm start
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=glo
+bal` instead.
+
+> @ndiinginc/server@1.0.0 start
+> node index.js
+
+{ address: '127.0.0.1', family: 'IPv4', port: 3000 }
+```
+
+5. Update pembaruan `npm update`
+
+```console
+Ndiing@DESKTOP-GNTG2JS MINGW64 ~/Downloads/server (main)
+$ npm update
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=glo
+bal` instead.
+
+up to date, audited 7 packages in 7s
+
+found 0 vulnerabilities
 ```
 
 ## Dokumentasi
