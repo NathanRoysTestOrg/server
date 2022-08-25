@@ -6,8 +6,6 @@ Koleksi service pihak ketiga, untuk kebutuhan riset atau komersial, singkatnya A
 
 Ikuti langkah pemasangan dibawah ini, pastikan [`nodejs`](https://nodejs.org/en/download/) dan [`git`](https://git-scm.com/downloads) sudah terpasang pada perangkat anda.
 
-1. Download / Clone project `git clone https://github.com/ndiing/server.git`
-
 ```console
 Ndiing@DESKTOP-GNTG2JS MINGW64 ~/Downloads
 $ git clone https://github.com/ndiing/server.git
@@ -21,14 +19,10 @@ Receiving objects: 100% (671/671), 623.15 KiB | 443.00 KiB/s, done.
 Resolving deltas: 100% (401/401), done.
 ```
 
-2. Masuk ke folder `cd server`
-
 ```console
 Ndiing@DESKTOP-GNTG2JS MINGW64 ~/Downloads
 $ cd server
 ```
-
-3. Install packages `npm install`
 
 ```console
 Ndiing@DESKTOP-GNTG2JS MINGW64 ~/Downloads/server (main)
@@ -40,8 +34,6 @@ added 6 packages, and audited 7 packages in 1s
 
 found 0 vulnerabilities
 ```
-
-4. Mulai server `npm start`
 
 ```console
 Ndiing@DESKTOP-GNTG2JS MINGW64 ~/Downloads/server (main)
@@ -55,7 +47,7 @@ bal` instead.
 { address: '127.0.0.1', family: 'IPv4', port: 3000 }
 ```
 
-5. Update pembaruan `npm update`
+## Pembaruan
 
 ```console
 Ndiing@DESKTOP-GNTG2JS MINGW64 ~/Downloads/server (main)
