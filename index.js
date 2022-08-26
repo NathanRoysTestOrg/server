@@ -32,7 +32,7 @@ rZBvQ8ZEc7a5E98hZmuHPH4pR3V3BO2NrJ-FaMk2XzP1Si5C2Hhc1DLxk5Dmtj2l
 // Load module
 const Router = require("@ndiinginc/router");
 
-// For expanded development, see this
+// For extended development, see this
 // https://www.npmjs.com/package/@ndiinginc/sidompul
 // untuk dokumentasi RESTful API, lihat ini
 // https://github.com/ndiing/server/blob/main/api/sidompul/v1/README.md
