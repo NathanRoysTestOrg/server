@@ -67,59 +67,59 @@ found 0 vulnerabilities
 Dokumentasi penguna API
 
 <dl>
-<dt><a href="./api/sidompul/v1/README.md"><code>SiDOMPUL 4.4.0</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-release-brightgreen"/></dd>
+    <dt><a href="./api/sidompul/v1/README.md"><img src="https://img.shields.io/badge/SiDOMPUL%204.4.0-release-brightgreen"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/digiposaja/v1/README.md"><code>digiposaja</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-planned-lightgrey"/></dd>
+    <dt><a href="./api/digiposaja/v1/README.md"><img src="https://img.shields.io/badge/digiposaja-planned-lightgrey"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/simpel/v1/README.md"><code>simpel</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-planned-lightgrey"/></dd>
+    <dt><a href="./api/simpel/v1/README.md"><img src="https://img.shields.io/badge/simpel-planned-lightgrey"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/rita/v1/README.md"><code>rita</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-planned-lightgrey"/></dd>
+    <dt><a href="./api/rita/v1/README.md"><img src="https://img.shields.io/badge/rita-planned-lightgrey"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/sris/v1/README.md"><code>sris</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-planned-lightgrey"/></dd>
+    <dt><a href="./api/sris/v1/README.md"><img src="https://img.shields.io/badge/sris-planned-lightgrey"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/mitratokopedia/v1/README.md"><code>mitratokopedia</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-planned-lightgrey"/></dd>
+    <dt><a href="./api/mitratokopedia/v1/README.md"><img src="https://img.shields.io/badge/mitratokopedia-planned-lightgrey"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/mitrabukalapak/v1/README.md"><code>mitrabukalapak</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-planned-lightgrey"/></dd>
+    <dt><a href="./api/mitrabukalapak/v1/README.md"><img src="https://img.shields.io/badge/mitrabukalapak-planned-lightgrey"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/mitrashopee/v1/README.md"><code>Mitra Shopee: Jual Pulsa, PPOB 1.46.0</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-progress-yellow"/></dd>
+    <dt><a href="./api/mitrashopee/v1/README.md"><img src="https://img.shields.io/badge/Mitra%20Shopee%3A%20Jual%20Pulsa%2C%20PPOB%201.46.0-progress-yellow"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/kiosgamer/v1/README.md"><code>kiosgamer</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-planned-lightgrey"/></dd>
+    <dt><a href="./api/kiosgamer/v1/README.md"><img src="https://img.shields.io/badge/kiosgamer-planned-lightgrey"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/griyabayar/v1/README.md"><code>griyabayar</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-planned-lightgrey"/></dd>
+    <dt><a href="./api/griyabayar/v1/README.md"><img src="https://img.shields.io/badge/griyabayar-planned-lightgrey"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/agenbni46/v1/README.md"><code>agenbni46</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-planned-lightgrey"/></dd>
+    <dt><a href="./api/agenbni46/v1/README.md"><img src="https://img.shields.io/badge/agenbni46-planned-lightgrey"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/whatsapp/v1/README.md"><code>whatsapp</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-planned-lightgrey"/></dd>
+    <dt><a href="./api/whatsapp/v1/README.md"><img src="https://img.shields.io/badge/whatsapp-planned-lightgrey"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/telegram/v1/README.md"><code>telegram</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-planned-lightgrey"/></dd>
+    <dt><a href="./api/telegram/v1/README.md"><img src="https://img.shields.io/badge/telegram-planned-lightgrey"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 <dl>
-<dt><a href="./api/xmpp/v1/README.md"><code>xmpp</code></a></dt>
-<dd><img src="https://img.shields.io/badge/status-planned-lightgrey"/></dd>
+    <dt><a href="./api/xmpp/v1/README.md"><img src="https://img.shields.io/badge/xmpp-planned-lightgrey"/></a></dt>
+    <dd>Keterangan...</dd>
 </dl>
 
