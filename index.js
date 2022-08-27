@@ -35,6 +35,7 @@ rZBvQ8ZEc7a5E98hZmuHPH4pR3V3BO2NrJ-FaMk2XzP1Si5C2Hhc1DLxk5Dmtj2l
 // Load module
 const Router = require("@ndiinginc/router");
 const sidompul = require("@ndiinginc/sidompul");
+// const mitrashopee = require("@ndiinginc/mitrashopee"); // In developement stage
 
 // Create low level security app
 // used for micro services
@@ -61,7 +62,7 @@ app.use((req, res, next) => {
 
 // Routes
 app.use("/api/sidompul/v1", sidompul);
-// app.use("/api/mitrashopee/v1", mitrashopee);
+// app.use("/api/mitrashopee/v1", mitrashopee); // In developement stage
 
 // Start app
 const server = app.listen(3000, () => {
