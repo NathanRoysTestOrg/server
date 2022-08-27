@@ -30,3 +30,7 @@
 ### transaction 
 
 - **[`GET` postAirpayV0FeApcTransactionFeTransactionGetTransactionDetail](./docs/post-airpay-v0-fe-apc-transaction-fe-transaction-get-transaction-detail.md)** 
+
+### payment 
+
+- **[`GET` payment](./docs/payment.md)** 
