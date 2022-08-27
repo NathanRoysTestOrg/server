@@ -1,5 +1,8 @@
+// Avoid system crash during production.
 process.on("uncaughtException", console.error);
 process.on("unhandledRejection", console.error);
+
+// Certificate registration
 process.env.CERTIFICATE = `-----BEGIN CERTIFICATE-----
 eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJjZTk0YjZkYy00OWRmLTQ0NWQ
 tYTIyZi0xOTI3NmFlYmExNmYiOiJsOXEyNnBqaiIsIjRmNGQxMDMzLTZhZWQtNDg
@@ -31,23 +34,10 @@ rZBvQ8ZEc7a5E98hZmuHPH4pR3V3BO2NrJ-FaMk2XzP1Si5C2Hhc1DLxk5Dmtj2l
 
 // Load module
 const Router = require("@ndiinginc/router");
-
-// For extended development, see this
-// https://www.npmjs.com/package/@ndiinginc/sidompul
-// untuk dokumentasi RESTful API, lihat ini
-// https://github.com/ndiing/server/blob/main/api/sidompul/v1/README.md
 const sidompul = require("@ndiinginc/sidompul");
 
-// Tambahkan IP Adress yang ingin di whitelist
-// selain alamat yang terdaftar akan di reject
-// dengan status 403
-// message forbidden
-const whitelist = ["127.0.0.1"];
-
-// Create APP
-// Micro service harus ditetapkan pengaturan keamanan tingkat rendah
-// If you are interested in our project, see this
-// https://www.npmjs.com/package/@ndiinginc/router
+// Create low level security app
+// used for micro services
 const app = Router({
     security: null,
     cache: null,
@@ -55,19 +45,25 @@ const app = Router({
     limiter: null,
 });
 
-// Whitelist check middleware
+// IP Address restriction middleware
 app.use((req, res, next) => {
-    if (!whitelist.includes(req.ip)) {
+    if (
+        ![
+            // Add allowed IP here...
+            "127.0.0.1",
+        ].includes(req.ip)
+    ) {
         res.status = 403;
         next({ message: "Forbidden" });
     }
     next();
 });
 
-// Register module
+// Routes
 app.use("/api/sidompul/v1", sidompul);
+// app.use("/api/mitrashopee/v1", mitrashopee);
 
-// Mulai Server
+// Start app
 const server = app.listen(3000, () => {
-    console.log(server.address());
+    console.log("Server running on", server.address().port);
 });
